@@ -1,7 +1,5 @@
-# react-scaff
+# react-scaff 脚手架
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]()   [![NPM version](https://badge.fury.io/js/react-scaff.svg)](https://npmjs.org/package/react-scaff) 
-
-# react-scaff  - react-scaff脚手架
 
 配合 [data-mock-send](https://github.com/jonhal/data-mock-send) 使用效果更佳
 
